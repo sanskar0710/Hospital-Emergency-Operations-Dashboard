@@ -1,0 +1,30 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  min-width: 320px;
+  min-height: 100%;
+  background: #0b1118;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  display: block;
+  background: #0b1118;
+  color: #edf3f8;
+  font-family: 'DM Sans', sans-serif;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
